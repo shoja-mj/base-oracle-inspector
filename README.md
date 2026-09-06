@@ -2,7 +2,7 @@
 Automated decentralized oracle integrity validator safeguarding execution environments against price manipulation vectors.
 // ========================================================
 // EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-const BUILD_COUNT_TRIGGER = 3;
+const BUILD_COUNT_TRIGGER = 4;
 // ========================================================
 
 class PriceOracleInspector {
